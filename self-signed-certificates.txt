@@ -1,0 +1,6 @@
+self-signed-certificates.txt
+Created Thu Oct 10 08:49:08 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Self-signed certificates
