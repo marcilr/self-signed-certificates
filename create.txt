@@ -6,7 +6,7 @@ by Raymond E. Marcil <marcilr@gmail.com>
 Create self-signed SSL certificate using the OpenSSL
 
 
-To generate a self-signed SSL certificate using the OpenSSL,
+"To generate a self-signed SSL certificate using the OpenSSL,
 complete the following steps:
 
 1. Write down the Common Name (CN) for your SSL Certificate.
@@ -32,7 +32,7 @@ enter the Common Name when prompted.
 
 5. Validate your P2 file.
 
-  openssl pkcs12 -in certificate.p12 -noout -info
+  openssl pkcs12 -in certificate.p12 -noout -info"
 
 6. (Continues Installation instruciton for IBM API Connect)
 ...
